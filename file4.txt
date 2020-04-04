@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-second one
-=======
-third one
->>>>>>> 7da904754eef230c343fcd89d23f3ace6bfb6448
+
